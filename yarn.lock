@@ -2641,7 +2641,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@cloud-carbon-footprint/common@^1.10.0, @cloud-carbon-footprint/common@^1.12.0, @cloud-carbon-footprint/common@^1.8.0, @cloud-carbon-footprint/common@workspace:packages/common":
+"@cloud-carbon-footprint/common@^1.10.0, @cloud-carbon-footprint/common@^1.12.0, @cloud-carbon-footprint/common@^1.12.1, @cloud-carbon-footprint/common@^1.8.0, @cloud-carbon-footprint/common@workspace:packages/common":
   version: 0.0.0-use.local
   resolution: "@cloud-carbon-footprint/common@workspace:packages/common"
   dependencies:
@@ -2735,7 +2735,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@cloud-carbon-footprint/gcp@workspace:packages/gcp"
   dependencies:
-    "@cloud-carbon-footprint/common": ^1.12.0
+    "@cloud-carbon-footprint/common": ^1.12.1
     "@cloud-carbon-footprint/core": ^0.17.3
     "@google-cloud/bigquery": ^5.9.3
     "@google-cloud/compute": ^3.9.0
