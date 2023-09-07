@@ -1,5 +1,11 @@
 # @cloud-carbon-footprint/common
 
+## 1.12.1
+
+### Patch Changes
+
+- bc06b861: Fixes issue when asserting set values of INCLUDE_ESTIMATES config
+
 ## 1.12.0
 
 ### Minor Changes
